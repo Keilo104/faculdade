@@ -1,0 +1,13 @@
+- Inclua nos documentos HTML as tags <meta> para descrever as informações contidas no arquivo. Como por exemplo: autor, data da criação, etc...
+
+- Não esqueça de incluir os elementos <label> para cada campo do formulário
+
+- Incluir os atributos principais para definir os campos dos formulários de acordo com cada tipo. Outros atributos podem ser especificados, desde que esteja de acordo com o que o campo solicita.
+
+Você pode testar os dados, basta inserir o atributo action="http://cafe.intermidia.icmc.usp.br:22080/humberto/formu
+lario.php" e o method="post"
+
+ 
+
+- Questão 1
+imagem01.png
