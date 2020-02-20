@@ -1,0 +1,44 @@
+Roteiro aula prática
+
+1. Baixar o material da aula prática 
+2. Extrair o conteúdo em algum local
+3. Criar um novo documento e salvar como HTML
+    - Ex.: noticia.html
+4. Criar uma estrutura base de uma página Web dentro do arquivo criado
+
+		<!DOCTYPE html>
+		<html lang="pt-br">
+		<head>
+			<meta charset="utf-8" />
+			<meta name="author" content="Humberto Lidio Antonelli" />
+			<meta name="description" content="Aula INWS1 - Aula sobre os conceitos iniciais da linguagem HTML" />
+			<meta name="keywords" content="aula, web, html, ifsp, ads" />
+			<title>Prática Aula</title>
+		</head>
+		<body>
+
+		</body>
+		</html>
+
+5. Abra o arquivo texto-noticia.txt
+6. Copie todo o seu conteúdo para dentro da tag body do seu documento HTML
+7. Salvar e Abrir o documento HTML o navegador
+8. Colocar os títulos de acordo com as indicações que estão entre colchetes [Título ...] no lado esquerdo dos títulos
+9. Salvar o documento HTML e visualizar no navegador
+10. Colocar as tags de parágrafo (<p>) delimitando todos os parágrafos do texto
+    - Não esquecer de abrir e fechar corretamente todos os parágrafos
+11. Salvar o documento HTML e visualizar no navegador
+12. Inserir uma quebra de linha de acordo com a indicação entre colchetes [Quebra de linha]
+13. Salvar o documento HTML e visualizar no navegador
+14. Colocar a marcação STRONG na primeira ocorrência dos termos "bitcoin" e "bitcoin cash" dentro dos parágrafo
+15. Salvar o documento HTML e visualizar no navegador
+13. Colocar a marcação EM no nome do engenheiro do Facebook
+16. Salvar o documento HTML e visualizar no navegador
+17. Inserir as marcações IMG com o endereço das imagens
+    - Não esquecer de associar o texto alternativo para cada imagem
+    - Ter cuidado com o enderço onde a imagem está salva (caminho abosluto X caminho relativo)
+18. Salvar o documento HTML e visualizar no navegador
+19. Crie os dois links de arcodo com as indicações que estão entre colchetes [link: ...]
+    - o primeiro link deve abrir na mesma janela 
+    - o segundo link deve abrir em uma nova janela
+20. Salvar o documento HTML e visualizar no navegador
