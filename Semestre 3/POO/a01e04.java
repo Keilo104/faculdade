@@ -5,8 +5,8 @@ class a01e04 {
         Scanner leitor = new Scanner(System.in);
 
         int operador = leitor.nextInt();
-        int a = Math.abs(leitor.nextInt());
-        int b = Math.abs(leitor.nextInt());
+        int a = leitor.nextInt();
+        int b = leitor.nextInt();
 
         switch(operador) {
             case 0:
